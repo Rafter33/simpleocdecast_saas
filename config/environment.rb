@@ -7,4 +7,4 @@ Rails.application.initialize!
 #ActionMailer::Base.smtp_setting ={
   #:address => 'smtp.sendgrid.net' ,
   #:port => '587'
-  }
+  #}
