@@ -1,0 +1,3 @@
+class ProlilesController < ApplicationController
+
+end
